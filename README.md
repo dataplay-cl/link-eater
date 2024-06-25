@@ -33,15 +33,15 @@ npm install
 
 4. Set up environment variables:
 Create a `.env` file in the root directory and add the following:
-TWILIO_ACCOUNT_SID=your_twilio_account_sid
-TWILIO_AUTH_TOKEN=your_twilio_auth_token
-TWILIO_PHONE_NUMBER=your_twilio_whatsapp_number
-OPENAI_API_KEY=your_openai_api_key
-YOUTUBE_API_KEY=your_youtube_api_key
-JINA_API_KEY=your_jina_api_key
-PORT=3000
+TWILIO_ACCOUNT_SID=your_twilio_account_sid  
+TWILIO_AUTH_TOKEN=your_twilio_auth_token  
+TWILIO_PHONE_NUMBER=your_twilio_whatsapp_number  
+OPENAI_API_KEY=your_openai_api_key  
+YOUTUBE_API_KEY=your_youtube_api_key  
+JINA_API_KEY=your_jina_api_key  
+PORT=3000  
 
-5. Start the server:
+6. Start the server:
 npm start
 
 ## Usage
